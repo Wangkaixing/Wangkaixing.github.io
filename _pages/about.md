@@ -31,5 +31,5 @@ Selected Publications
 Open Source Project Contributions
 ======
 - [OpenFHE](https://github.com/openfheorg/openfhe-development)<br />
-**Issue Resolution**:Fixed the bug in the variance of LWE key generation, submitted multiple PRs, and helped stabilize the project.<br />
+**Issue Resolution**: Fixed the bug in the variance of LWE key generation, submitted multiple PRs, and helped stabilize the project.<br />
 **Community Engagement**: Actively participated in Discord discussions, assisting new contributors in understanding project workflows.
