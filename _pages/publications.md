@@ -15,10 +15,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 ### In submission 
-- Improved FHE Bootstrapping and Its Applications in Privacy Preserving Inference of Discretized Neural Networks. (submitted)<br />
+- Improved FHE Bootstrapping and Its Applications in Privacy Preserving Inference of Discretized Neural Networks. (submitted to Theoretical Computer Science, 2024)<br />
   **Kaixing Wang**, Binwu Xiang, Jiang Zhang<br />
-  Theoretical Computer Science, 2024
+  <!-- Theoretical Computer Science, 2024 -->
 
-- NTRU-based Bootstrapping for MK-FHEs without using Overstretched Parameters. (submitted)<br />
+- NTRU-based Bootstrapping for MK-FHEs without using Overstretched Parameters. (submitted to Asiacrypt 2024)<br />
   Binwu Xiang, Jiang Zhang, **Kaixing Wang**, Yi Deng <br />
-  Asiacrypt 2024
+  <!--  -->
