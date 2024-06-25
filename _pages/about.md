@@ -20,10 +20,10 @@ Education
 
 Selected Publications
 ======
-- NTRU-based Bootstrapping for MK-FHEs without using Overstretched Parameters<br />
+- NTRU-based Bootstrapping for MK-FHEs without using Overstretched Parameters. (submitted)<br />
   Binwu Xiang, Jiang Zhang, **Kaixing Wang**, Yi Deng <br />
   Asiacrypt 2024
 
-- Improved FHE Bootstrapping and Its Applications in Privacy Preserving Inference of Discretized Neural Networks<br />
+- Improved FHE Bootstrapping and Its Applications in Privacy Preserving Inference of Discretized Neural Networks. (submitted)<br />
   **Kaixing Wang***, Binwu Xiang, Jiang Zhang<br />
   Theoretical Computer Science
