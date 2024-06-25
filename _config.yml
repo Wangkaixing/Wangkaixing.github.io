@@ -21,7 +21,7 @@ repository               : "Wangkaixing/Wangkaixing.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "wkx.jpg"
+  avatar           : "wkx_profile.jpg"
   name             : "Kaixing Wang"
   pronouns         : # example: "she/her"  
   bio              : "Master student in UCAS"
