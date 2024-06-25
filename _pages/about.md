@@ -13,9 +13,17 @@ My main research interests lie in the general areas of security and cryptography
 
 Education
 ======
-- Master of Electronic Information
-  
+- Master of Electronic Information<br />
   School of Computer Science and Technology, UCAS (2022 - now)
-- Bachelor of Computer Science and Technology
-  
+- Bachelor of Computer Science and Technology<br />
   School of Information, Xiamen University (2018 - 2022)
+
+Selected Publications
+======
+- NTRU-based Bootstrapping for MK-FHEs without using Overstretched Parameters<br />
+  Binwu Xiang, Jiang Zhang, **Kaixing Wang**, Yi Deng <br />
+  Asiacrypt 2024
+
+- Improved FHE Bootstrapping and Its Applications in Privacy Preserving Inference of Discretized Neural Networks<br />
+  **Kaixing Wang***, Binwu Xiang, Jiang Zhang<br />
+  Theoretical Computer Science
