@@ -14,6 +14,8 @@ My main research interests lie in the general areas of machine learning and cryp
 Education
 ======
 - Master of Computer Science
+  
   University of Chinese Academy of Sciences, School of Computer Science and Technology (2022 - now)
 - Bachelor of Computer Science and Technology
-   Xiamen University, School of Information (2018 - 2022)
+  
+  Xiamen University, School of Information (2018 - 2022)
