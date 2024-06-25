@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year master student at UCAS.
+I am a second year master student in the School of Computer Science and Technology, University of Chinese Academy of Sciences(UCAS). Currently, I am studying in the state key laboratory of cryptology, Beijing, China, and luckly being mentored by advised Jiang Zhang.
 
 A data-driven personal website
 ======
