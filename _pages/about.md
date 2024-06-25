@@ -9,7 +9,7 @@ redirect_from:
 
 I am a second year master student in the School of Computer Science and Technology, University of Chinese Academy of Sciences (UCAS). Currently, I am studying in the State Key Laboratory of Cryptology, Beijing, China, and luckly being advised researcher Jiang Zhang.
 
-My main research interests lie in the general areas of machine learning and cryptography, including homomorphic encryption, privacy-preserving machine learning, and so on.
+My main research interests lie in the general areas of security and cryptography, including homomorphic encryption, privacy-preserving machine learning.
 
 Education
 ======
