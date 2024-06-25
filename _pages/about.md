@@ -18,7 +18,7 @@ Education
 - Bachelor of Computer Science and Technology<br />
   School of Information, Xiamen University (2018 - 2022)
 
-Selected Publications
+Publications
 ======
 - Improved FHE Bootstrapping and Its Applications in Privacy Preserving Inference of Discretized Neural Networks. (submitted)<br />
   **Kaixing Wang**, Binwu Xiang, Jiang Zhang<br />
