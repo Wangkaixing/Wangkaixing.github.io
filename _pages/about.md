@@ -20,10 +20,16 @@ Education
 
 Selected Publications
 ======
+- Improved FHE Bootstrapping and Its Applications in Privacy Preserving Inference of Discretized Neural Networks. (submitted)<br />
+  **Kaixing Wang**, Binwu Xiang, Jiang Zhang<br />
+  Theoretical Computer Science, 2024
+
 - NTRU-based Bootstrapping for MK-FHEs without using Overstretched Parameters. (submitted)<br />
   Binwu Xiang, Jiang Zhang, **Kaixing Wang**, Yi Deng <br />
   Asiacrypt 2024
 
-- Improved FHE Bootstrapping and Its Applications in Privacy Preserving Inference of Discretized Neural Networks. (submitted)<br />
-  **Kaixing Wang***, Binwu Xiang, Jiang Zhang<br />
-  Theoretical Computer Science
+Open Source Project Contributions
+======
+- [OpenFHE](https://github.com/openfheorg/openfhe-development)<br />
+**Issue Resolution**:Fixed the bug in the variance of LWE key generation, submitted multiple PRs, and helped stabilize the project.<br />
+**Community Engagement**: Actively participated in Discord discussions, assisting new contributors in understanding project workflows.
