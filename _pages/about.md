@@ -13,8 +13,8 @@ My main research interests lie in the general areas of security and cryptography
 
 Education
 ======
-- Master of Electronic Information<br />
-  School of Computer Science and Technology, UCAS (2022 - now)
+- Master of Electronic Information and Engineering<br />
+  School of Computer Science and Technology, UCAS (2022 - current)
 - Bachelor of Computer Science and Technology<br />
   School of Information, Xiamen University (2018 - 2022)
 
