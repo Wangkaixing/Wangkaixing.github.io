@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year master student in the School of Computer Science and Technology, [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/). Currently, I am studying in the [State Key Laboratory of Cryptology](https://sca.gov.cn/sca/ztpd/qgzdsys.shtml), Beijing, China, and luckly being advised researcher [Jiang Zhang](https://dblp.org/pid/94/2739-1.html).
+I am a second year master student in the School of Computer Science and Technology, [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/). Currently, I am studying in the [State Key Laboratory of Cryptology](https://sca.gov.cn/sca/ztpd/qgzdsys.shtml), Beijing, China, and luckly being advised by researcher [Jiang Zhang](https://dblp.org/pid/94/2739-1.html).
 
 My main research interests lie in the general areas of security and cryptography, including homomorphic encryption, privacy-preserving machine learning.
 
@@ -20,7 +20,7 @@ Education
 
 Publications
 ======
-- Improved FHE Bootstrapping and Its Applications in Privacy Preserving Inference of Discretized Neural Networks. (submitted to  Theoretical Computer Science, 2024)<br />
+- Improved FHE Bootstrapping and Its Applications in Privacy Preserving Inference of Discretized Neural Networks. (to be submitted)<br />
   **Kaixing Wang**, Binwu Xiang, Jiang Zhang<br />
  
 
