@@ -24,8 +24,9 @@ Publications
   **Kaixing Wang**, Binwu Xiang, Jiang Zhang<br />
  
 
-- NTRU-based Bootstrapping for MK-FHEs without using Overstretched Parameters. (submitted to Asiacrypt 2024)<br />
-  Binwu Xiang, Jiang Zhang, **Kaixing Wang**, Yi Deng <br />
+- NTRU-based Bootstrapping for MK-FHEs without using Overstretched Parameters.<br />
+  Asiacrypt 2024 <br />
+  Binwu Xiang, Jiang Zhang, **Kaixing Wang**, Yi Deng，Dengguo Feng <br />
   
 
 Open Source Project Contributions
