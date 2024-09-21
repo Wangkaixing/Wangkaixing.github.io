@@ -15,11 +15,16 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
+
+
+### Publication 
+- NTRU-based Bootstrapping for MK-FHEs without using Overstretched Parameters.  Asiacrypt 2024<br />
+  Binwu Xiang, Jiang Zhang, **Kaixing Wang**, Yi Deng, Dengguo Feng <br />
+  <!--  -->
+
 ### In submission 
 - Improved FHE Bootstrapping and Its Applications in Privacy Preserving Inference of Discretized Neural Networks. (to be submitted)<br />
   **Kaixing Wang**, Binwu Xiang, Jiang Zhang<br />
   <!-- Theoretical Computer Science, 2024 -->
 
-- NTRU-based Bootstrapping for MK-FHEs without using Overstretched Parameters.  Asiacrypt 2024<br />
-  Binwu Xiang, Jiang Zhang, **Kaixing Wang**, Yi Deng, Dengguo Feng <br />
-  <!--  -->
+
