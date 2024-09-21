@@ -25,7 +25,7 @@ Publications
  
 
 - NTRU-based Bootstrapping for MK-FHEs without using Overstretched Parameters.<br />
-  Asiacrypt 2024 <br />
+  Asiacrypt 2024 (**CCF A**) <br />
   Binwu Xiang, Jiang Zhang, **Kaixing Wang**, Yi Deng，Dengguo Feng <br />
   
 
