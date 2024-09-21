@@ -90,18 +90,6 @@
   }
 
   img {
-
-    // max-width: 150px;  /* 自定义宽度，较窄 */
-    // height: 180px;     /* 自定义高度，较高 */
-    // border-radius: 50% / 100%;  /* 设为椭圆形，横向50%，纵向100% */
-
-    // @include breakpoint($large) {
-    //   padding: 5px;
-    //   border: 1px solid $border-color;
-    //   max-width: 175px;  /* 大屏幕时调整宽度 */
-    //   height: 200px;     /* 大屏幕时调整高度 */
-    //   border-radius: 50% / 100%;  /* 保持竖着的椭圆形 */
-    // }
     max-width: 175px;
     border-radius: 50%;
 
