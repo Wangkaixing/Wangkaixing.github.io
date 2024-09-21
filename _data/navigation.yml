@@ -16,10 +16,10 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: 'http://academicpages.github.io/files/cv_chinese.pdf'
+    url: /cv/
 
   - title: "CV(中文)"
-  url: /cv/
+    url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
